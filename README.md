@@ -11,9 +11,7 @@ This repository contains a ready-to-use framework for computing depth maps and a
 1. Run command `source build.sh` to build the project 
 1. Run command `python3 app.py` to run the application
 
-
 ![](project/screenshot.png)
-
 **IMPLEMENTED FEATURES:**
 
 **Basic features:**
