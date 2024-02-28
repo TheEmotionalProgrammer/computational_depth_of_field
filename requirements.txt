@@ -1,0 +1,10 @@
+opencv-python
+numpy
+Pillow
+torch
+ipython
+plyfile
+pyyaml
+dill
+matplotlib
+torchvision
