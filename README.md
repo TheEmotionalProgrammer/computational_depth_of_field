@@ -1,8 +1,6 @@
 # Computational Depth-of-Field 
 
-**Isidoro Tamassia**, student number **6054765**
-
-URL to the gitlab repository: https://gitlab.ewi.tudelft.nl/cgv/cs4365/student-repositories/2023-2024/cs436523itamassia
+This repository contains a ready-to-use framework for computing depth maps and applying these maps for many purposes
 
 **HOW TO RUN THE APPLICATION (LINUX/MACOS):**
 1. Open terminal at project directory
